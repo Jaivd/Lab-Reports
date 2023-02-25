@@ -1,5 +1,5 @@
 # Lab Report 3 - Researching Grep
-grep is ainly used to find a certain keyword withing files. In this report I will describe a few other ways to use grep. 
+grep is mainly used to find a certain keyword withing files. In this report I will describe a few other ways to use grep. 
 
 ## Method 1 - grep searching a singular file
 This is the most basic method of using grep. The syntax to use htis function is 
@@ -63,3 +63,4 @@ Here, again I used my own name and as a result the entire file was outputed. THi
 
 ## Sources
 https://phoenixnap.com/kb/grep-command-linux-unix-examples
+[Lab Report 4](lab-report-4.md)
