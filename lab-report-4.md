@@ -16,7 +16,10 @@ The steps I will be following for this challenge task are as follows:
 
 ## Step 1 through 3
 Since this I will be attempting this challenge again, I will delete the repository and then refork it. 
-To delete the repository, I will go to the forked respository, then go to settings and in general scroll to the bottom and click delete repository. The following message will pop up prompting me to confirm the deletion of the repository. ![image](https://user-images.githubusercontent.com/122576180/221385623-4266d9f3-3ca9-4944-96fa-344e24e51829.png)
+To delete the repository, I will go to the forked respository, then go to settings and in general scroll to the bottom and click delete repository. The following message will pop up prompting me to confirm the deletion of the repository. 
+
+![image](https://user-images.githubusercontent.com/122576180/221385623-4266d9f3-3ca9-4944-96fa-344e24e51829.png)
+
 I will then enter the name and delete the repository to start fresh. 
 
 To fork the repository I will go to [this](https://github.com/ucsd-cse15l-w23/lab7) repository and then click 'Fork' in the top left corner. This page will pop up and I will use then click create fork to then finally succesfully fork my repository. 
