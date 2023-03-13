@@ -10,14 +10,14 @@ The first thing you will need to do is install VScode on your computer. If you a
     You can download the editor from this link [here](https://code.visualstudio.com/)
     Download the version for your computer (Mac/Windows/Linux)
     Click the blue download button to start downloading
-    ![Image](https://jaivd.github.io/cse15l-lab-reports/Screenshot%202023-01-12%20153541.png)
+    ![Image](https://jaivd.github.io/Lab-Reports/Screenshot%202023-01-12%20153541.png)
     
 **Step 2 - Follow the instructions to install the software**
     Once downloaded, open (or double click) on the downloaded file and then follow the instructions in front of you in order to install the software.
     
 **Step 3 - Open VScode**
     Once opened, your VScode should look something like this. If it does, that means you have succesfully installed VScode!
-    ![Image](https://jaivd.github.io/cse15l-lab-reports/Screenshot%202023-01-13%20145439.png)
+    ![Image](https://jaivd.github.io/Lab-Reports/Screenshot%202023-01-13%20145439.png)
 
 ## Remote connecting
   Here we are going to use the terminal on our VScode to connect to the UCSD server. 
@@ -30,7 +30,7 @@ The first thing you will need to do is install VScode on your computer. If you a
     Similair to how we downloaded VScode, follow the steps after opening the downloaded file and git should be installed. 
     After that, to open git in your VScode terminal, follow the instructions below. 
     [Link to the guide shown below](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994)
-    ![Image](https://jaivd.github.io/cse15l-lab-reports/Stackoverflow.png)
+    ![Image](https://jaivd.github.io/Lab-Reports/Stackoverflow.png)
     
 **Step 2 - Using Terminal** 
     Now, in VScode open terminal (open using the tab on the top left corner of your screen). In terminal (The box on the bottom of your screen), type in `ssh` followed by your CSE 15L account ID with the phrase '@ieng6.ucsd.edu' appended to the end of it. It should look something like the example below, however in place of the 'aia' it would be whatever code is unique to your account. (Note: Anything written in a box, like below, signifies what is in the terminal)
